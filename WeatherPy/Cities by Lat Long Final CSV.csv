@@ -1,0 +1,933 @@
+﻿City,Country,Code,Hemisphere,Latitude,Longitude
+Adak,United States,US,Northern,50,-175
+Honolulu,United States,US,Northern,20,-160
+Barrow,United States,US,Northern,70,-155
+Hilo,United States,US,Northern,20,-155
+Anchorage,United States,US,Northern,60,-150
+Deadhorse,United States,US,Northern,70,-150
+Fairbanks,United States,US,Northern,65,-150
+Sitka,United States,US,Northern,55,-135
+Whitehorse,Canada,CA,Northern,60,-135
+Juneau,United States,US,Northern,60,-135
+Tuktoyaktuk,Canada,CA,Northern,70,-135
+Victoria,Canada,CA,Northern,50,-125
+Vancouver,Canada,CA,Northern,50,-125
+Portland,United States,US,Northern,45,-125
+San Francisco,United States,US,Northern,40,-120
+Seattle,United States,US,Northern,50,-120
+Sacramento,United States,US,Northern,40,-120
+Kamloops,Canada,CA,Northern,50,-120
+Reno,United States,US,Northern,40,-120
+Santa Barbara,United States,US,Northern,35,-120
+Kelowna,Canada,CA,Northern,50,-120
+Grande Prairie,Canada,CA,Northern,55,-120
+Los Angeles,United States,US,Northern,35,-120
+Riverside,United States,US,Northern,35,-115
+San Diego,United States,US,Northern,35,-115
+Tijuana,Mexico,MX,Northern,35,-115
+Ensenada,Mexico,MX,Northern,30,-115
+Boise,United States,US,Northern,45,-115
+Mexicali,Mexico,MX,Northern,35,-115
+Las Vegas,United States,US,Northern,35,-115
+Yellowknife,Canada,CA,Northern,60,-115
+Calgary,Canada,CA,Northern,50,-115
+Edmonton,Canada,CA,Northern,55,-115
+Phoenix,United States,US,Northern,35,-110
+Helena,United States,US,Northern,45,-110
+Salt Lake City,United States,US,Northern,40,-110
+Fort McMurray,Canada,CA,Northern,55,-110
+Hermosillo,Mexico,MX,Northern,30,-110
+Tucson,United States,US,Northern,30,-110
+Cabo San Lucas,Mexico,MX,Northern,25,-110
+Culiacán,Mexico,MX,Northern,25,-105
+Saskatoon,Canada,CA,Northern,50,-105
+Albuquerque,United States,US,Northern,35,-105
+Ciudad Juárez,Mexico,MX,Northern,30,-105
+El Paso,United States,US,Northern,30,-105
+Los Alamos,United States,US,Northern,35,-105
+Chihuahua,Mexico,MX,Northern,30,-105
+Santa Fe,United States,US,Northern,35,-105
+Boulder,United States,US,Northern,40,-105
+Puerto Vallarta,Mexico,MX,Northern,20,-105
+Denver,United States,US,Northern,40,-105
+Cheyenne,United States,US,Northern,40,-105
+Durango,Mexico,MX,Northern,25,-105
+Regina,Canada,CA,Northern,50,-105
+Torreón,Mexico,MX,Northern,25,-105
+Zapopan,Mexico,MX,Northern,20,-105
+Guadalajara,Mexico,MX,Northern,20,-105
+Aguascalientes,Mexico,MX,Northern,20,-100
+León,Mexico,MX,Northern,20,-100
+San Luis Potosí,Mexico,MX,Northern,20,-100
+Bismarck,United States,US,Northern,45,-100
+Querétaro,Mexico,MX,Northern,20,-100
+Pierre,United States,US,Northern,45,-100
+Monterrey,Mexico,MX,Northern,25,-100
+Acapulco,Mexico,MX,Northern,15,-100
+Mexico City,Mexico,MX,Northern,20,-100
+San Antonio,United States,US,Northern,30,-100
+Puebla,Mexico,MX,Northern,20,-100
+Tampico,Mexico,MX,Northern,20,-100
+Austin,United States,US,Northern,30,-100
+Oklahoma City,United States,US,Northern,35,-100
+Wichita,United States,US,Northern,40,-95
+Winnipeg,Canada,CA,Northern,50,-95
+Dallas,United States,US,Northern,35,-95
+Lincoln,United States,US,Northern,40,-95
+Veracruz,Mexico,MX,Northern,20,-95
+Tulsa,United States,US,Northern,35,-95
+Houston,United States,US,Northern,30,-95
+Kansas City,United States,US,Northern,40,-95
+Des Moines,United States,US,Northern,40,-95
+Springfield,United States,US,Northern,35,-95
+Minneapolis,United States,US,Northern,45,-95
+Little Rock,United States,US,Northern,35,-90
+Tapachula,Mexico,MX,Northern,15,-90
+Quetzaltenango,Guatemala,GT,Northern,15,-90
+Guatemala City,Guatemala,GT,Northern,15,-90
+St. Louis,United States,US,Northern,40,-90
+Jackson,United States,US,Northern,30,-90
+New Orleans,United States,US,Northern,30,-90
+Memphis,United States,US,Northern,35,-90
+Mérida,Mexico,MX,Northern,20,-90
+Thunder Bay,Canada,CA,Northern,50,-90
+San Salvador,El Salvador,SV,Northern,15,-90
+Belmopan,Belize,BZ,Northern,15,-90
+Belize City,Belize,BZ,Northern,20,-90
+Mobile,United States,US,Northern,30,-90
+Milwaukee,United States,US,Northern,45,-90
+Chicago,United States,US,Northern,40,-90
+Tegucigalpa,Honduras,HN,Northern,15,-85
+Chinandega,Nicaragua,NI,Northern,15,-85
+Cancún,Mexico,MX,Northern,20,-85
+Birmingham,United States,US,Northern,35,-85
+Nashville,United States,US,Northern,35,-85
+Managua,Nicaragua,NI,Northern,10,-85
+Indianapolis,United States,US,Northern,40,-85
+Louisville,United States,US,Northern,40,-85
+Liberia,Costa Rica,CR,Northern,10,-85
+Fort Wayne,United States,US,Northern,40,-85
+Puntarenas,Costa Rica,CR,Northern,10,-85
+Cincinnati,United States,US,Northern,40,-85
+Atlanta,United States,US,Northern,35,-85
+Sault Ste. Marie,Canada,CA,Northern,45,-85
+Alajuela,Costa Rica,CR,Northern,10,-85
+San José,Costa Rica,CR,Northern,10,-85
+Knoxville,United States,US,Northern,35,-85
+Detroit,United States,US,Northern,40,-85
+Limón,Costa Rica,CR,Northern,10,-85
+Windsor,Canada,CA,Northern,40,-85
+Columbus,United States,US,Northern,40,-85
+Tampa,United States,US,Northern,30,-80
+Havana,Cuba,CU,Northern,25,-80
+Key West,United States,US,Northern,25,-80
+Cleveland,United States,US,Northern,40,-80
+Jacksonville,United States,US,Northern,30,-80
+Charleston,United States,US,Northern,40,-80
+Orlando,United States,US,Northern,30,-80
+Columbia,United States,US,Northern,35,-80
+Sudbury,Canada,CA,Northern,45,-80
+Charlotte,United States,US,Northern,35,-80
+Miami,United States,US,Northern,25,-80
+Pittsburgh,United States,US,Northern,40,-80
+Panama City,Panama,PA,Northern,10,-80
+North Bay,Canada,CA,Northern,45,-80
+Toronto,Canada,CA,Northern,45,-80
+Buffalo,United States,US,Northern,45,-80
+Raleigh,United States,US,Northern,35,-80
+Wilmington,United States,US,Northern,35,-80
+Rochester,United States,US,Northern,45,-80
+Washington,United States,US,Northern,40,-75
+Kingston,Jamaica,JM,Northern,20,-75
+Baltimore,United States,US,Northern,40,-75
+Santiago de Cali,Colombia,CO,Northern,5,-75
+Virginia Beach,United States,US,Northern,35,-75
+Santiago de Cuba,Cuba,CU,Northern,20,-75
+Ottawa,Canada,CA,Northern,45,-75
+Medellín,Colombia,CO,Northern,5,-75
+Dover,United States,US,Northern,40,-75
+Cartagena,Colombia,CO,Northern,10,-75
+Philadelphia,United States,US,Northern,40,-75
+Barranquilla,Colombia,CO,Northern,10,-75
+Trenton,United States,US,Northern,40,-75
+Forked River,United States,US,Northern,40,-75
+Bogotá,Colombia,CO,Northern,5,-75
+Jersey City,United States,US,Northern,40,-75
+New York City,United States,US,Northern,40,-75
+Montreal,Canada,CA,Northern,45,-75
+Hartford,United States,US,Northern,40,-75
+Montpelier,United States,US,Northern,45,-75
+Cúcuta,Colombia,CO,Northern,10,-75
+Port-au-Prince,Haiti,HT,Northern,20,-70
+Concord,United States,US,Northern,45,-70
+Providence,United States,US,Northern,40,-70
+Quebec City,Canada,CA,Northern,45,-70
+Cockburn Town,United Kingdom,GB,Northern,20,-70
+Boston,United States,US,Northern,40,-70
+Oranjestad,Netherlands,NL,Northern,15,-70
+Santo Domingo,Dominican Republic,DO,Northern,20,-70
+Augusta,United States,US,Northern,45,-70
+Qaanaaq,Denmark,DK,Northern,75,-70
+Willemstad,Netherlands,NL,Northern,10,-70
+Iqaluit,Canada,CA,Northern,65,-70
+Puerto Ayacucho,Venezuela,VU,Northern,5,-70
+Maracay,Venezuela,VU,Northern,10,-70
+Caracas,Venezuela,VU,Northern,10,-65
+Fredericton,Canada,CA,Northern,45,-65
+Yarmouth,Canada,CA,Northern,45,-65
+Saint John,Canada,CA,Northern,45,-65
+San Juan,United States,US,Northern,20,-65
+Charlotte Amalie,United States,US,Northern,20,-65
+Hamilton,United Kingdom,GB,Northern,30,-65
+Moncton,Canada,CA,Northern,45,-65
+Road Town,United Kingdom,GB,Northern,20,-65
+Ciudad Bolívar,Venezuela,VU,Northern,10,-65
+Halifax,Canada,CA,Northern,45,-65
+Charlottetown,Canada,CA,Northern,45,-65
+The Valley,United Kingdom,GB,Northern,20,-65
+Basseterre,Saint Kitts and Nevis,KN,Northern,15,-65
+Alert,Canada,CA,Northern,85,-60
+St. John's,Antigua and Barbuda,AG,Northern,15,-60
+St. George's,Grenada,GD,Northern,10,-60
+Basse-Terre,France,FR,Northern,15,-60
+Port of Spain,Trinidad and Tobago,TT,Northern,10,-60
+San Fernando,Trinidad and Tobago,TT,Northern,10,-60
+Roseau,Dominica,DM,Northern,15,-60
+Chaguanas,Trinidad and Tobago,TT,Northern,10,-60
+Kingstown,Saint Vincent and the Grenadines,VC,Northern,15,-60
+Fort-de-France,France,FR,Northern,15,-60
+Castries,Saint Lucia,LC,Northern,15,-60
+Boa Vista,Brazil,BR,Northern,5,-60
+Bridgetown,Barbados,BB,Northern,15,-60
+Georgetown,Guyana,GY,Northern,5,-60
+Saint-Pierre,France,FR,Northern,45,-55
+Upernavik,Denmark,DK,Northern,75,-55
+Paramaribo,Suriname,SR,Northern,5,-55
+St. John's,Canada,CA,Northern,50,-55
+Cayenne,France,FR,Northern,5,-50
+Nuuk,Denmark,DK,Northern,65,-50
+Macapá,Brazil,BR,Northern,0,-50
+Qaqortoq,Denmark,DK,Northern,60,-45
+Horta,Portugal,PT,Northern,40,-30
+Angra do Heroísmo,Portugal,PT,Northern,40,-25
+Ponta Delgada,Portugal,PT,Northern,40,-25
+Praia,Cape Verde,CV,Northern,15,-25
+Ísafjörður,Iceland,IS,Northern,65,-25
+Reykjavík,Iceland,IS,Northern,65,-20
+Akureyri,Iceland,IS,Northern,65,-20
+Dakar,Senegal,SN,Northern,15,-15
+Thiès,Senegal,SN,Northern,15,-15
+Funchal,Portugal,PT,Northern,35,-15
+Nord,Denmark,DK,Northern,80,-15
+Serekunda,Gambia,GM,Northern,15,-15
+Brikama,Gambia,GM,Northern,15,-15
+Banjul,Gambia,GM,Northern,15,-15
+Santa Cruz de Tenerife,Spain,ES,Northern,30,-15
+Nouakchott,Mauritania,MR,Northern,20,-15
+Bissau,Guinea-Bissau,GW,Northern,10,-15
+Las Palmas de Gran Canaria,Spain,ES,Northern,30,-15
+Conakry,Guinea,GN,Northern,10,-15
+Freetown,Sierra Leone,SL,Northern,10,-15
+El Aaiún,Morocco,MA,Northern,25,-15
+Monrovia,Liberia,LR,Northern,5,-10
+Lisbon,Portugal,PT,Northern,40,-10
+Nzérékoré,Guinea,GN,Northern,10,-10
+Porto,Portugal,PT,Northern,40,-10
+Cork,Ireland,IE,Northern,50,-10
+Marrakech,Morocco,MA,Northern,30,-10
+Bamako,Mali,ML,Northern,15,-10
+Casablanca,Morocco,MA,Northern,35,-10
+Koulikoro,Mali,ML,Northern,15,-10
+Rabat,Morocco,MA,Northern,35,-5
+Tórshavn,Denmark,DK,Northern,60,-5
+Dublin,Ireland,IE,Northern,55,-5
+Sevilla,Spain,ES,Northern,35,-5
+Belfast,United Kingdom,GB,Northern,55,-5
+Gibraltar,United Kingdom,GB,Northern,35,-5
+Yamoussoukro,Ivory Coast,IT,Northern,5,-5
+Douglas,United Kingdom,GB,Northern,55,-5
+Brest,France,FR,Northern,50,-5
+Málaga,Spain,ES,Northern,35,-5
+Bobo-Dioulasso,Burkina Faso,BF,Northern,10,-5
+Glasgow,United Kingdom,GB,Northern,55,-5
+Inverness,United Kingdom,GB,Northern,55,-5
+Plymouth,United Kingdom,GB,Northern,50,-5
+Abidjan,Ivory Coast,IT,Northern,5,-5
+Swansea,United Kingdom,GB,Northern,50,-5
+Madrid,Spain,ES,Northern,40,-5
+Exeter,United Kingdom,GB,Northern,50,-5
+Edinburgh,United Kingdom,GB,Northern,55,-5
+Cardiff,United Kingdom,GB,Northern,50,-5
+Timbuktu,Mali,ML,Northern,15,-5
+Liverpool,United Kingdom,GB,Northern,55,-5
+Dundee,United Kingdom,GB,Northern,55,-5
+Bilbao,Spain,ES,Northern,45,-5
+Bristol,United Kingdom,GB,Northern,50,-5
+Bath,United Kingdom,GB,Northern,50,0
+Gloucester,United Kingdom,GB,Northern,50,0
+Manchester,United Kingdom,GB,Northern,55,0
+Aberdeen,United Kingdom,GB,Northern,55,0
+Birmingham,United Kingdom,GB,Northern,50,0
+Sekondi-Takoradi,Ghana,GH,Northern,5,0
+Bradford,United Kingdom,GB,Northern,55,0
+Kumasi,Ghana,GH,Northern,5,0
+Newcastle upon Tyne,United Kingdom,GB,Northern,55,0
+Nantes,France,FR,Northern,45,0
+Leeds,United Kingdom,GB,Northern,55,0
+Ouagadougou,Burkina Faso,BF,Northern,10,0
+Coventry,United Kingdom,GB,Northern,50,0
+Sheffield,United Kingdom,GB,Northern,55,0
+Southampton,United Kingdom,GB,Northern,50,0
+Oxford,United Kingdom,GB,Northern,50,0
+Nottingham,United Kingdom,GB,Northern,55,0
+Leicester,United Kingdom,GB,Northern,55,0
+Portsmouth,United Kingdom,GB,Northern,50,0
+Zaragoza,Spain,ES,Northern,40,0
+Tamale,Ghana,GH,Northern,10,0
+Bordeaux,France,FR,Northern,45,0
+Valencia,Spain,ES,Northern,40,0
+Peterborough,United Kingdom,GB,Northern,55,0
+Accra,Ghana,GH,Northern,5,0
+Brighton and Hove,United Kingdom,GB,Northern,50,0
+London,United Kingdom,GB,Northern,50,0
+Greenwich,United Kingdom,GB,Northern,50,0
+Le Havre,France,FR,Northern,50,0
+Cambridge,United Kingdom,GB,Northern,50,0
+Lleida,Spain,ES,Northern,40,0
+Rouen,France,FR,Northern,50,0
+Lomé,Togo,TG,Northern,5,0
+Norwich,United Kingdom,GB,Northern,55,0
+Tiaret,Algeria,DZ,Northern,35,0
+Ibiza,Spain,ES,Northern,40,0
+Toulouse,France,FR,Northern,45,0
+Andorra la Vella,Andorra,AD,Northern,45,0
+Calais,France,FR,Northern,50,0
+Orléans,France,FR,Northern,50,0
+Niamey,Niger,NE,Northern,15,0
+Barcelona,Spain,ES,Northern,40,0
+Paris,France,FR,Northern,50,0
+Cotonou,Benin,BJ,Northern,5,0
+Porto-Novo,Benin,BJ,Northern,5,5
+Palma,Spain,ES,Northern,40,5
+Algiers,Algeria,DZ,Northern,35,5
+Lagos,Nigeria,NG,Northern,5,5
+Ghent,Belgium,BE,Northern,50,5
+Ibadan,Nigeria,NG,Northern,5,5
+The Hague,Netherlands,NL,Northern,50,5
+Brussels,Belgium,BE,Northern,50,5
+Antwerp,Belgium,BE,Northern,50,5
+Charleroi,Belgium,BE,Northern,50,5
+Rotterdam,Netherlands,NL,Northern,50,5
+Leiden,Netherlands,NL,Northern,50,5
+Haarlem,Netherlands,NL,Northern,50,5
+Lyon,France,FR,Northern,45,5
+Amsterdam,Netherlands,NL,Northern,50,5
+Utrecht,Netherlands,NL,Northern,50,5
+Bergen,Norway,NO,Northern,60,5
+Marseille,France,FR,Northern,45,5
+Benin City,Nigeria,NG,Northern,5,5
+Maastricht,Netherlands,NL,Northern,50,5
+Luxembourg,Luxembourg,LU,Northern,50,5
+Geneva,Switzerland,CH,Northern,45,5
+Groningen,Netherlands,NL,Northern,55,5
+Lausanne,Switzerland,CH,Northern,45,5
+São Tomé,São Tomé and Príncipe,ST,Northern,0,5
+Düsseldorf,Germany,DE,Northern,50,5
+Enschede,Netherlands,NL,Northern,50,5
+Cologne,Germany,DE,Northern,50,5
+Port Harcourt,Nigeria,NG,Northern,5,5
+Cannes,France,FR,Northern,45,5
+Nice,France,FR,Northern,45,5
+Monaco,Monaco,MC,Northern,45,5
+Bern,Switzerland,CH,Northern,45,5
+Abuja,Nigeria,NG,Northern,10,5
+Enugu,Nigeria,NG,Northern,5,10
+Basel,Switzerland,CH,Northern,50,10
+Turin,Italy,IT,Northern,45,10
+Strasbourg,France,FR,Northern,50,10
+Kristiansand,Norway,NO,Northern,60,10
+Esbjerg,Denmark,DK,Northern,55,10
+Kano,Nigeria,NG,Northern,10,10
+Zürich,Switzerland,CH,Northern,45,10
+Frankfurt am Main,Germany,DE,Northern,50,10
+Malabo,Equatorial Guinea,GQ,Northern,5,10
+Bremen,Germany,DE,Northern,55,10
+Cagliari,Italy,IT,Northern,40,10
+Stuttgart,Germany,DE,Northern,50,10
+Milan,Italy,IT,Northern,45,10
+Libreville,Gabon,GA,Northern,0,10
+Vaduz,Liechtenstein,LI,Northern,45,10
+Douala,Cameroon,CM,Northern,5,10
+Hannover,Germany,DE,Northern,50,10
+Hamburg,Germany,DE,Northern,55,10
+Kiel,Germany,DE,Northern,55,10
+Tunis,Tunisia,TN,Northern,35,10
+Aarhus,Denmark,DK,Northern,55,10
+Odense,Denmark,DK,Northern,55,10
+Trondheim,Norway,NO,Northern,65,10
+Lillehammer,Norway,NO,Northern,60,10
+Oslo,Norway,NO,Northern,60,10
+Sfax,Tunisia,TN,Northern,35,10
+Stjørdal,Norway,NO,Northern,65,10
+Sarpsborg,Norway,NO,Northern,60,10
+Florence,Italy,IT,Northern,45,10
+Bologna,Italy,IT,Northern,45,10
+Innsbruck,Austria,AT,Northern,45,10
+Yaoundé,Cameroon,CM,Northern,5,10
+Munich,Germany,DE,Northern,50,10
+Gothenburg,Sweden,SE,Northern,60,10
+Venice,Italy,IT,Northern,45,10
+Leipzig,Germany,DE,Northern,50,10
+San Marino,San Marino,SM,Northern,45,10
+Vatican City,Vatican City,VU,Northern,40,10
+Rome,Italy,IT,Northern,40,15
+Copenhagen,Denmark,DK,Northern,55,15
+Malmö,Sweden,SE,Northern,55,15
+Salzburg,Austria,AT,Northern,50,15
+Tripoli,Libya,LY,Northern,35,15
+Palermo,Italy,IT,Northern,40,15
+Berlin,Germany,DE,Northern,55,15
+Dresden,Germany,DE,Northern,50,15
+Naples,Italy,IT,Northern,40,15
+Linz,Austria,AT,Northern,50,15
+Prague,Czech Republic,CZ,Northern,50,15
+Sabha,Libya,LY,Northern,25,15
+Birkirkara,Malta,MT,Northern,35,15
+Ljubljana,Slovenia,SI,Northern,45,15
+Valletta,Malta,MT,Northern,35,15
+Bodø,Norway,NO,Northern,65,15
+Östersund,Sweden,SE,Northern,65,15
+N'Djamena,Chad,TD,Northern,10,15
+Catania,Italy,IT,Northern,40,15
+Graz,Austria,AT,Northern,45,15
+Messina,Italy,IT,Northern,40,15
+Longyearbyen,Norway,NO,Northern,80,15
+Zagreb,Croatia,HR,Northern,45,15
+Moundou,Chad,TD,Northern,10,15
+Norrköping,Sweden,SE,Northern,60,15
+Vienna,Austria,AT,Northern,50,15
+Split,Croatia,HR,Northern,45,15
+Bratislava,Slovakia,SK,Northern,50,15
+Sundsvall,Sweden,SE,Northern,60,15
+Narvik,Norway,NO,Northern,70,20
+Uppsala,Sweden,SE,Northern,60,20
+Stockholm,Sweden,SE,Northern,60,20
+Sarajevo,Bosnia and Herzegovina,BA,Northern,45,20
+Gdynia,Poland,PL,Northern,55,20
+Bangui,Central African Republic,CF,Northern,5,20
+Gdańsk,Poland,PL,Northern,55,20
+Örnsköldsvik,Sweden,SE,Northern,65,20
+Tromsø,Norway,NO,Northern,70,20
+Budapest,Hungary,HU,Northern,45,20
+Podgorica,Montenegro,ME,Northern,40,20
+Tirana,Albania,AL,Northern,40,20
+Novi Sad,Serbia,RS,Northern,45,20
+Kraków,Poland,PL,Northern,50,20
+Benghazi,Libya,LY,Northern,30,20
+Kiruna,Sweden,SE,Northern,70,20
+Umeå,Sweden,SE,Northern,65,20
+Belgrade,Serbia,RS,Northern,45,20
+Kaliningrad,Russia,RO,Northern,55,20
+Skellefteå,Sweden,SE,Northern,65,20
+Warsaw,Poland,PL,Northern,50,20
+Pristina,Serbia,RS,Northern,45,20
+Skopje,Macedonia,MO,Northern,40,20
+Piteå,Sweden,SE,Northern,65,20
+Vaasa,Finland,FI,Northern,65,20
+Boden,Sweden,SE,Northern,65,20
+Luleå,Sweden,SE,Northern,65,20
+Turku,Finland,FI,Northern,60,20
+Thessaloniki,Greece,GR,Northern,40,25
+Sofia,Bulgaria,BG,Northern,45,25
+Cluj-Napoca,Romania,RO,Northern,45,25
+Hammerfest,Norway,NO,Northern,70,25
+Athena,Greece,GR,Northern,40,25
+Tampere,Finland,FI,Northern,60,25
+Craiova,Romania,RO,Northern,45,25
+Lviv,Ukraine,UA,Northern,50,25
+Riga,Latvia,LV,Northern,55,25
+Haparanda,Sweden,SE,Northern,65,25
+Tornio,Finland,FI,Northern,65,25
+Kemi,Finland,FI,Northern,65,25
+Espoo,Finland,FI,Northern,60,25
+Tallinn,Estonia,EE,Northern,60,25
+Helsinki,Finland,FI,Northern,60,25
+Vantaa,Finland,FI,Northern,60,25
+Heraklion,Greece,GR,Northern,35,25
+Vilnius,Lithuania,LT,Northern,55,25
+Oulu,Finland,FI,Northern,65,25
+Lahti,Finland,FI,Northern,60,25
+Rovaniemi,Finland,FI,Northern,65,25
+Jyväskylä,Finland,FI,Northern,60,25
+Bucharest,Romania,RO,Northern,45,25
+Tartu,Estonia,EE,Northern,60,25
+Pudasjärvi,Finland,FI,Northern,65,25
+Utsjoki,Finland,FI,Northern,70,25
+İzmir,Turkey,TR,Northern,40,25
+Kemijärvi,Finland,FI,Northern,65,25
+Minsk,Belarus,BY,Northern,55,30
+Kuopio,Finland,FI,Northern,65,30
+Nuorgam,Finland,FI,Northern,70,30
+Chişinău,Moldova,FM,Northern,45,30
+Istanbul,Turkey,TR,Northern,40,30
+Bursa,Turkey,TR,Northern,40,30
+Kuusamo,Finland,FI,Northern,65,30
+Tiraspol,Moldova,FM,Northern,45,30
+Vadsø,Norway,NO,Northern,70,30
+Alexandria,Egypt,EG,Northern,30,30
+Saint Petersburg,Russia,RO,Northern,60,30
+Eskisehir,Turkey,TR,Northern,40,30
+Kiev,Ukraine,UA,Northern,50,30
+Odessa,Ukraine,UA,Northern,45,30
+Cairo,Egypt,EG,Northern,30,30
+Juba,South Sudan,SS,Northern,5,30
+Port Said,Egypt,EG,Northern,30,30
+Entebbe,Uganda,UG,Northern,0,30
+Konya,Turkey,TR,Northern,40,30
+Omdurman,Sudan,SD,Northern,15,30
+Khartoum,Sudan,SD,Northern,15,35
+Suez,Egypt,EG,Northern,30,35
+Kampala,Uganda,UG,Northern,0,35
+Luxor,Egypt,EG,Northern,25,35
+Ankara,Turkey,TR,Northern,40,35
+Murmansk,Russia,RO,Northern,70,35
+Nicosia,Cyprus,CY,Northern,35,35
+Simferopol,Russia,RO,Northern,45,35
+Gaza,Palestine,PW,Northern,30,35
+Mersin,Turkey,TR,Northern,35,35
+Tel Aviv,Israel,IL,Northern,30,35
+Eilat,Israel,IL,Northern,30,35
+Jerusalem,Israel,IL,Northern,30,35
+Adana,Turkey,TR,Northern,35,35
+Beirut,Lebanon,LB,Northern,35,35
+Latakia,Syria,CH,Northern,35,35
+Amman,Jordan,JO,Northern,30,35
+Kharkiv,Ukraine,UA,Northern,50,35
+Damascus,Syria,CH,Northern,35,35
+Gaziantep,Turkey,TR,Northern,35,35
+Moscow,Russia,RO,Northern,55,40
+Addis Ababa,Ethiopia,ET,Northern,10,40
+Asmara,Eritrea,ER,Northern,15,40
+Krasnodar,Russia,RO,Northern,45,40
+Jeddah,Saudi Arabia,SA,Northern,20,40
+Voronezh,Russia,RO,Northern,50,40
+Medina,Saudi Arabia,SA,Northern,25,40
+Rostov-on-Don,Russia,RO,Northern,45,40
+Sochi,Russia,RO,Northern,45,40
+Mecca,Saudi Arabia,SA,Northern,20,40
+Yaroslavl,Russia,RO,Northern,60,40
+Arkhangelsk,Russia,RO,Northern,65,40
+Sukhumi,Georgia,GE,Northern,45,40
+Mosul,Iraq,IQ,Northern,35,45
+Djibouti,Djibouti,DJ,Northern,10,45
+Tskhinvali,Georgia,GE,Northern,40,45
+Nizhny Novgorod,Russia,RO,Northern,55,45
+Arbil,Iraq,IQ,Northern,35,45
+Hargeisa,Somalia,SO,Northern,10,45
+Sana'a,Yemen,YE,Northern,15,45
+Kirkuk,Iraq,IQ,Northern,35,45
+Baghdad,Iraq,IQ,Northern,35,45
+Volgograd,Russia,RO,Northern,50,45
+Yerevan,Armenia,AM,Northern,40,45
+Tbilisi,Georgia,GE,Northern,40,45
+Mogadishu,Somalia,SO,Northern,0,45
+Saratov,Russia,RO,Northern,50,45
+Tabriz,Iran,ID,Northern,40,45
+Riyadh,Saudi Arabia,SA,Northern,25,45
+Stepanakert,Azerbaijan,AZ,Northern,40,45
+Basra,Iraq,IQ,Northern,30,50
+Kuwait City,Kuwait,KW,Northern,30,50
+Kazan,Russia,RO,Northern,55,50
+Tolyatti,Russia,RO,Northern,55,50
+Baku,Azerbaijan,AZ,Northern,40,50
+Samara,Russia,RO,Northern,55,50
+Dammam,Saudi Arabia,SA,Northern,25,50
+Manama,Bahrain,BH,Northern,25,50
+Tehran,Iran,ID,Northern,35,50
+Doha,Qatar,QA,Northern,25,50
+Isfahan,Iran,ID,Northern,35,50
+Izhevsk,Russia,RO,Northern,55,55
+Salalah,Oman,OM,Northern,15,55
+Abu Dhabi,United Arab Emirates,AE,Northern,25,55
+Dubai,United Arab Emirates,AE,Northern,25,55
+Ufa,Russia,RO,Northern,55,55
+Perm,Russia,RO,Northern,60,55
+Ashgabat,Turkmenistan,TM,Northern,40,60
+Muscat,Oman,OM,Northern,25,60
+Nukus,Uzbekistan,UZ,Northern,40,60
+Mashhad,Iran,ID,Northern,35,60
+Yekaterinburg,Russia,RO,Northern,55,60
+Chelyabinsk,Russia,RO,Northern,55,60
+Kandahar,Afghanistan,AF,Northern,30,65
+Karachi,Pakistan,PK,Northern,25,65
+Hyderabad,Pakistan,PK,Northern,25,70
+Dushanbe,Tajikistan,TJ,Northern,40,70
+Kabul,Afghanistan,AF,Northern,35,70
+Tashkent,Uzbekistan,UZ,Northern,40,70
+Astana,Kazakhstan,KZ,Northern,50,70
+Multan,Pakistan,PK,Northern,30,70
+Peshawar,Pakistan,PK,Northern,35,70
+Namangan,Uzbekistan,UZ,Northern,40,70
+Ahmedabad,India,IN,Northern,25,75
+Mumbai,India,IN,Northern,20,75
+Surat,India,IN,Northern,20,75
+Rawalpindi,Pakistan,PK,Northern,35,75
+Islamabad,Pakistan,PK,Northern,35,75
+Faisalabad,Pakistan,PK,Northern,30,75
+Omsk,Russia,RO,Northern,55,75
+Malé,Maldives,MV,Northern,5,75
+Pune,India,IN,Northern,20,75
+Lahore,Pakistan,PK,Northern,30,75
+Bishkek,Kyrgyzstan,KG,Northern,45,75
+Srinagar,India,IN,Northern,35,75
+Amritsar,India,IN,Northern,30,75
+Jaipur,India,IN,Northern,25,75
+Ludhiana,India,IN,Northern,30,75
+Kochi,India,IN,Northern,10,75
+Chandigarh,India,IN,Northern,30,75
+Almaty,Kazakhstan,KZ,Northern,45,75
+Trivandrum,India,IN,Northern,10,75
+Shimla,India,IN,Northern,30,75
+New Delhi,India,IN,Northern,30,75
+Bangalore,India,IN,Northern,15,80
+Agra,India,IN,Northern,25,80
+Hyderabad,India,IN,Northern,15,80
+Nagpur,India,IN,Northern,20,80
+Kulpahar,India,IN,Northern,25,80
+Colombo,Sri Lanka,LK,Northern,5,80
+Chennai,India,IN,Northern,15,80
+Kanpur,India,IN,Northern,25,80
+Kandy,Sri Lanka,LK,Northern,5,80
+Lucknow,India,IN,Northern,25,80
+Batticaloa,Sri Lanka,LK,Northern,10,80
+Novosibirsk,Russia,RO,Northern,55,85
+Visakhapatnam,India,IN,Northern,20,85
+Patna,India,IN,Northern,25,85
+Kathmandu,Nepal,NP,Northern,30,85
+Ürümqi,People's Republic of China,PY,Northern,45,90
+Norilsk,Russia,RO,Northern,70,90
+Kolkata,India,IN,Northern,25,90
+Siliguri,India,IN,Northern,25,90
+Gangtok,India,IN,Northern,25,90
+Shigatse,People's Republic of China,PY,Northern,30,90
+Thimphu,Bhutan,BT,Northern,25,90
+Dhaka,Bangladesh,BD,Northern,25,90
+Lhasa,People's Republic of China,PY,Northern,30,90
+Agartala,India,IN,Northern,25,90
+Guwahati,India,IN,Northern,25,90
+Chittagong,Bangladesh,BD,Northern,20,90
+Shillong,India,IN,Northern,25,90
+Port Blair,India,IN,Northern,10,95
+Tezpur,India,IN,Northern,25,95
+Krasnoyarsk,Russia,RO,Northern,55,95
+Dibrugarh,India,IN,Northern,25,95
+Banda Aceh,Indonesia,ID,Northern,5,95
+Naypyidaw,Myanmar,MM,Northern,20,95
+Yangon,Myanmar,MM,Northern,15,95
+Phuket,Thailand,TH,Northern,10,100
+Medan,Indonesia,ID,Northern,5,100
+Chiang Mai,Thailand,TH,Northern,20,100
+Surat Thani,Thailand,TH,Northern,10,100
+Chiang Rai,Thailand,TH,Northern,20,100
+George Town,Malaysia,MY,Northern,5,100
+Alor Setar,Malaysia,MY,Northern,5,100
+Bangkok,Thailand,TH,Northern,15,100
+Hat Yai,Thailand,TH,Northern,5,100
+Ayutthaya,Thailand,TH,Northern,15,100
+Pattaya,Thailand,TH,Northern,15,100
+Ipoh,Malaysia,MY,Northern,5,100
+Pekanbaru,Indonesia,ID,Northern,0,100
+Bratsk,Russia,RO,Northern,55,100
+Kuala Lumpur,Malaysia,MY,Northern,5,100
+Xining,People's Republic of China,PY,Northern,35,100
+Nakhon Ratchasima,Thailand,TH,Northern,15,100
+Kota Bharu,Malaysia,MY,Northern,5,100
+Vientiane,Laos,LA,Northern,20,105
+Kunming,People's Republic of China,PY,Northern,25,105
+Udon Thani,Thailand,TH,Northern,15,105
+Khon Kaen,Thailand,TH,Northern,15,105
+Johor Bahru,Malaysia,MY,Northern,0,105
+Lanzhou,People's Republic of China,PY,Northern,35,105
+Singapore,Singapore,SG,Northern,0,105
+Siem Reap,Cambodia,KH,Northern,15,105
+Chengdu,People's Republic of China,PY,Northern,30,105
+Irkutsk,Russia,RO,Northern,50,105
+Phnom Penh,Cambodia,KH,Northern,10,105
+Hanoi,Vietnam,VN,Northern,20,105
+Chongqing,People's Republic of China,PY,Northern,30,105
+Ho Chi Minh City,Vietnam,VN,Northern,10,105
+Ulaanbaatar,Mongolia,MN,Northern,50,105
+Huế,Vietnam,VN,Northern,15,110
+Da Nang,Vietnam,VN,Northern,15,110
+Nanning,People's Republic of China,PY,Northern,25,110
+Xi'an,People's Republic of China,PY,Northern,35,110
+Kuching,Malaysia,MY,Northern,0,110
+Taiyuan,People's Republic of China,PY,Northern,40,115
+Guangzhou,People's Republic of China,PY,Northern,25,115
+Macau,People's Republic of China,PY,Northern,20,115
+Zhengzhou,People's Republic of China,PY,Northern,35,115
+Dongguan,People's Republic of China,PY,Northern,25,115
+Miri,Malaysia,MY,Northern,5,115
+Shenzhen,People's Republic of China,PY,Northern,25,115
+Hong Kong,People's Republic of China,PY,Northern,20,115
+Wuhan,People's Republic of China,PY,Northern,30,115
+Handan,People's Republic of China,PY,Northern,35,115
+Shijiazhuang,People's Republic of China,PY,Northern,40,115
+Bandar Seri Begawan,Brunei,IO,Northern,5,115
+Kota Kinabalu,Malaysia,MY,Northern,5,115
+Beijing,People's Republic of China,PY,Northern,40,115
+Jinan,People's Republic of China,PY,Northern,35,115
+Tianjin,People's Republic of China,PY,Northern,40,115
+Nanjing,People's Republic of China,PY,Northern,30,120
+Hangzhou,People's Republic of China,PY,Northern,30,120
+Tainan,Republic of China (Taiwan),QA,Northern,25,120
+Kaohsiung,Republic of China (Taiwan),QA,Northern,25,120
+Qingdao,People's Republic of China,PY,Northern,35,120
+Taichung,Republic of China (Taiwan),QA,Northern,25,120
+Manila,Philippines,PH,Northern,15,120
+Quezon City,Philippines,PH,Northern,15,120
+Makati,Philippines,PH,Northern,15,120
+Shanghai,People's Republic of China,PY,Northern,30,120
+Taipei,Republic of China (Taiwan),QA,Northern,25,120
+Dalian,People's Republic of China,PY,Northern,40,120
+Zamboanga City,Philippines,PH,Northern,5,120
+Iloilo City,Philippines,PH,Northern,10,125
+Shenyang,People's Republic of China,PY,Northern,40,125
+Tagbilaran,Philippines,PH,Northern,10,125
+Cebu City,Philippines,PH,Northern,10,125
+Changchun,People's Republic of China,PY,Northern,45,125
+Davao City,Philippines,PH,Northern,5,125
+Pyongyang,North Korea,NF,Northern,40,125
+Kaesong,North Korea,NF,Northern,40,125
+Harbin,People's Republic of China,PY,Northern,45,125
+Incheon,South Korea,GS,Northern,35,125
+Seoul,South Korea,GS,Northern,40,125
+Wonsan,North Korea,NF,Northern,40,125
+Naha,Japan,JP,Northern,25,130
+Daegu,South Korea,GS,Northern,35,130
+Busan,South Korea,GS,Northern,35,130
+Yakutsk,Russia,RO,Northern,60,130
+Chongjin,North Korea,NF,Northern,40,130
+Fukuoka,Japan,JP,Northern,35,130
+Vladivostok,Russia,RO,Northern,45,130
+Hiroshima,Japan,JP,Northern,35,130
+Verkhoyansk,Russia,RO,Northern,70,135
+Koror,Palau,PW,Northern,5,135
+Melekeok,Palau,PW,Northern,5,135
+Kōbe,Japan,JP,Northern,35,135
+Osaka,Japan,JP,Northern,35,135
+Kyoto,Japan,JP,Northern,35,135
+Nagoya,Japan,JP,Northern,35,135
+Yokohama,Japan,JP,Northern,35,140
+Tokyo,Japan,JP,Northern,35,140
+Kawasaki,Japan,JP,Northern,35,140
+Sendai,Japan,JP,Northern,40,140
+Sapporo,Japan,JP,Northern,45,140
+Hagåtña,United States,US,Northern,15,145
+Dededo,United States,US,Northern,15,145
+Nemuro,Japan,JP,Northern,45,145
+Saipan,United States,US,Northern,15,145
+Magadan,Russia,RO,Northern,60,150
+Weno,Federated States of Micronesia,FO,Northern,5,150
+Palikir,Federated States of Micronesia,FO,Northern,5,160
+Petropavlovsk-Kamchatsky,Russia,RO,Northern,55,160
+Majuro,Marshall Islands,MH,Northern,5,170
+South Tarawa,Kiribati,KI,Northern,0,175
+Anadyr,Russia,RO,Northern,65,180
+Mata-Utu,France,FR,Southern,-15,-175
+Apia,Samoa,WS,Southern,-15,-170
+Pago Pago,United States,US,Southern,-15,-170
+Alofi,New Zealand,NZ,Southern,-20,-170
+Avarua,New Zealand,NZ,Southern,-20,-160
+Papeete,France,FR,Southern,-20,-150
+Adamstown,United Kingdom,GB,Southern,-25,-130
+Hanga Roa,Chile,CL,Southern,-25,-110
+Guayaquil,Ecuador,EC,Southern,0,-80
+Trujillo,Peru,PE,Southern,-10,-80
+Quito,Ecuador,EC,Southern,0,-80
+Lima,Peru,PE,Southern,-10,-75
+Ayacucho,Peru,PE,Southern,-15,-75
+Iquitos,Peru,PE,Southern,-5,-75
+Valdivia,Chile,CL,Southern,-40,-75
+Concepción,Chile,CL,Southern,-35,-75
+Puerto Montt,Chile,CL,Southern,-40,-75
+Puerto Aisén,Chile,CL,Southern,-45,-75
+Temuco,Chile,CL,Southern,-40,-75
+Coihaique,Chile,CL,Southern,-45,-70
+Cusco,Peru,PE,Southern,-15,-70
+Valparaíso,Chile,CL,Southern,-35,-70
+Arequipa,Peru,PE,Southern,-15,-70
+San Carlos de Bariloche,Argentina,AR,Southern,-40,-70
+La Serena,Chile,CL,Southern,-30,-70
+Punta Arenas,Chile,CL,Southern,-55,-70
+Santiago,Chile,CL,Southern,-35,-70
+Antofagasta,Chile,CL,Southern,-25,-70
+Arica,Chile,CL,Southern,-20,-70
+Copiapó,Chile,CL,Southern,-25,-70
+Iquique,Chile,CL,Southern,-20,-70
+Río Gallegos,Argentina,AR,Southern,-50,-70
+Calama,Chile,CL,Southern,-20,-70
+Mendoza,Argentina,AR,Southern,-35,-70
+Ushuaia,Argentina,AR,Southern,-55,-70
+La Paz,Bolivia,BT,Southern,-15,-70
+Rio Branco,Brazil,BR,Southern,-10,-70
+Puerto Williams,Chile,CL,Southern,-55,-70
+Comodoro Rivadavia,Argentina,AR,Southern,-45,-65
+Salta,Argentina,AR,Southern,-25,-65
+Trelew,Argentina,AR,Southern,-45,-65
+Sucre,Bolivia,BT,Southern,-20,-65
+San Miguel de Tucumán,Argentina,AR,Southern,-25,-65
+Córdoba,Argentina,AR,Southern,-30,-65
+Porto Velho,Brazil,BR,Southern,-10,-65
+Santa Cruz de la Sierra,Bolivia,BT,Southern,-20,-65
+Bahía Blanca,Argentina,AR,Southern,-40,-60
+Rosario,Argentina,AR,Southern,-35,-60
+Manaus,Brazil,BR,Southern,-5,-60
+Buenos Aires,Argentina,AR,Southern,-35,-60
+Stanley,United Kingdom,GB,Southern,-50,-60
+Asunción,Paraguay,PY,Southern,-25,-60
+Montevideo,Uruguay,UY,Southern,-35,-55
+Cuiabá,Brazil,BR,Southern,-15,-55
+Sinop,Brazil,BR,Southern,-10,-55
+Ciudad del Este,Paraguay,PY,Southern,-25,-55
+Campo Grande,Brazil,BR,Southern,-20,-55
+Chuí,Brazil,BR,Southern,-35,-55
+Pelotas,Brazil,BR,Southern,-30,-50
+Porto Alegre,Brazil,BR,Southern,-30,-50
+Assis,Brazil,BR,Southern,-25,-50
+São José do Rio Preto,Brazil,BR,Southern,-20,-50
+Goiânia,Brazil,BR,Southern,-15,-50
+Curitiba,Brazil,BR,Southern,-25,-50
+Bauru,Brazil,BR,Southern,-20,-50
+Belém,Brazil,BR,Southern,0,-50
+Florianópolis,Brazil,BR,Southern,-30,-50
+Palmas,Brazil,BR,Southern,-10,-50
+Uberlândia,Brazil,BR,Southern,-20,-50
+Araraquara,Brazil,BR,Southern,-20,-50
+Brasília,Brazil,BR,Southern,-15,-50
+Ribeirão Preto,Brazil,BR,Southern,-20,-50
+Imperatriz,Brazil,BR,Southern,-5,-45
+Campinas,Brazil,BR,Southern,-25,-45
+São Paulo,Brazil,BR,Southern,-25,-45
+Poços de Caldas,Brazil,BR,Southern,-20,-45
+São José dos Campos,Brazil,BR,Southern,-25,-45
+São Luís,Brazil,BR,Southern,-5,-45
+Belo Horizonte,Brazil,BR,Southern,-20,-45
+Juiz de Fora,Brazil,BR,Southern,-20,-45
+Rio de Janeiro,Brazil,BR,Southern,-25,-45
+Teresina,Brazil,BR,Southern,-5,-45
+Governador Valadares,Brazil,BR,Southern,-20,-40
+Petrolina,Brazil,BR,Southern,-10,-40
+Vitória,Brazil,BR,Southern,-20,-40
+Sobral,Brazil,BR,Southern,-5,-40
+Juazeiro do Norte,Brazil,BR,Southern,-5,-40
+Ilhéus,Brazil,BR,Southern,-15,-40
+Fortaleza,Brazil,BR,Southern,-5,-40
+Salvador,Brazil,BR,Southern,-15,-40
+Aracaju,Brazil,BR,Southern,-10,-35
+Grytviken,United Kingdom,GB,Southern,-55,-35
+Garanhuns,Brazil,BR,Southern,-10,-35
+Caruaru,Brazil,BR,Southern,-10,-35
+Campina Grande,Brazil,BR,Southern,-5,-35
+Maceió,Brazil,BR,Southern,-10,-35
+Natal,Brazil,BR,Southern,-5,-35
+Recife,Brazil,BR,Southern,-10,-35
+João Pessoa,Brazil,BR,Southern,-5,-35
+Jamestown,United Kingdom,GB,Southern,-15,-5
+Luanda,Angola,AO,Southern,-10,15
+Brazzaville,Republic of the Congo,QA,Southern,-5,15
+Kinshasa,Democratic Republic of the Congo,CZ,Southern,-5,15
+Huambo,Angola,AO,Southern,-15,15
+Windhoek,Namibia,NA,Southern,-25,15
+Cape Town,South Africa,ZA,Southern,-35,20
+Kimberley,South Africa,ZA,Southern,-30,25
+Port Elizabeth,South Africa,ZA,Southern,-35,25
+Mafikeng,South Africa,ZA,Southern,-25,25
+Livingstone,Zambia,ZM,Southern,-20,25
+Gaborone,Botswana,BW,Southern,-25,25
+Bloemfontein,South Africa,ZA,Southern,-30,25
+Bhisho,South Africa,ZA,Southern,-35,25
+Lubumbashi,Democratic Republic of the Congo,CZ,Southern,-10,25
+Maseru,Lesotho,LS,Southern,-30,25
+Francistown,Botswana,BW,Southern,-20,30
+Johannesburg,South Africa,ZA,Southern,-25,30
+Pretoria,South Africa,ZA,Southern,-25,30
+Lusaka,Zambia,ZM,Southern,-15,30
+Bulawayo,Zimbabwe,ZW,Southern,-20,30
+Ndola,Zambia,ZM,Southern,-15,30
+Bujumbura,Burundi,BI,Southern,-5,30
+Polokwane,South Africa,ZA,Southern,-25,30
+Gweru,Zimbabwe,ZW,Southern,-20,30
+Kigali,Rwanda,RW,Southern,0,30
+Pietermaritzburg,South Africa,ZA,Southern,-30,30
+Nelspruit,South Africa,ZA,Southern,-25,30
+Harare,Zimbabwe,ZW,Southern,-20,30
+Durban,South Africa,ZA,Southern,-30,30
+Mbabane,Swaziland,SZ,Southern,-25,30
+Lobamba,Swaziland,SZ,Southern,-25,30
+Manzini,Swaziland,SZ,Southern,-25,30
+Mutare,Zimbabwe,ZW,Southern,-20,35
+Maputo,Mozambique,MZ,Southern,-25,35
+Mwanza,Tanzania,TJ,Southern,-5,35
+Lilongwe,Malawi,MW,Southern,-15,35
+Blantyre,Malawi,MW,Southern,-15,35
+Dodoma,Tanzania,TJ,Southern,-5,35
+Nairobi,Kenya,KE,Southern,0,35
+Dar es Salaam,Tanzania,TJ,Southern,-5,40
+Mombasa,Kenya,KE,Southern,-5,40
+Kismayo,Somalia,SO,Southern,0,45
+Moroni,Comoros,KM,Southern,-10,45
+Mamoudzou,France,FR,Southern,-15,45
+Antananarivo,Madagascar,MG,Southern,-20,50
+Saint-Denis,France,FR,Southern,-20,55
+Victoria,Seychelles,SC,Southern,-5,55
+Port Louis,Mauritius,MU,Southern,-20,60
+Padang,Indonesia,ID,Southern,0,100
+Palembang,Indonesia,ID,Southern,-5,105
+Jakarta,Indonesia,ID,Southern,-5,105
+Bogor,Indonesia,ID,Southern,-5,105
+Bandung,Indonesia,ID,Southern,-5,110
+Pontianak,Indonesia,ID,Southern,0,110
+Yogyakarta,Indonesia,ID,Southern,-10,110
+Semarang,Indonesia,ID,Southern,-5,110
+Malang,Indonesia,ID,Southern,-10,115
+Surabaya,Indonesia,ID,Southern,-5,115
+Denpasar,Indonesia,ID,Southern,-10,115
+Mandurah,Australia,AU,Southern,-35,115
+Perth,Australia,AU,Southern,-30,115
+Balikpapan,Indonesia,ID,Southern,0,115
+Port Hedland,Australia,AU,Southern,-20,120
+Makassar,Indonesia,ID,Southern,-5,120
+Dili,Timor-Leste,TL,Southern,-10,125
+Ambon,Indonesia,ID,Southern,-5,130
+Darwin,Australia,AU,Southern,-10,130
+Adelaide,Australia,AU,Southern,-35,140
+Jayapura,Indonesia,ID,Southern,-5,140
+Geelong,Australia,AU,Southern,-40,145
+Melbourne,Australia,AU,Southern,-40,145
+Cairns,Australia,AU,Southern,-15,145
+Townsville,Australia,AU,Southern,-20,145
+Port Moresby,Papua New Guinea,PG,Southern,-10,145
+Hobart,Australia,AU,Southern,-45,145
+Canberra,Australia,AU,Southern,-35,150
+Rockhampton,Australia,AU,Southern,-25,150
+Wollongong,Australia,AU,Southern,-35,150
+Sydney,Australia,AU,Southern,-35,150
+Newcastle,Australia,AU,Southern,-35,150
+Brisbane,Australia,AU,Southern,-25,155
+Gold Coast,Australia,AU,Southern,-30,155
+Honiara,Solomon Islands,SB,Southern,-10,160
+Nouméa,France,FR,Southern,-20,165
+Kingston,Australia,AU,Southern,-30,170
+Port Vila,Vanuatu,VU,Southern,-20,170
+Invercargill,New Zealand,NZ,Southern,-45,170
+Dunedin,New Zealand,NZ,Southern,-45,170
+Christchurch,New Zealand,NZ,Southern,-45,175
+Nelson,New Zealand,NZ,Southern,-40,175
+Auckland,New Zealand,NZ,Southern,-35,175
+Wellington,New Zealand,NZ,Southern,-40,175
+Hamilton,New Zealand,NZ,Southern,-40,175
+Hastings,New Zealand,NZ,Southern,-40,175
+Suva,Fiji,FJ,Southern,-20,180
+Funafuti,Tuvalu,TV,Southern,-10,180
+Labasa,Fiji,FJ,Southern,-15,180
